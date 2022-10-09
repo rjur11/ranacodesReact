@@ -1,7 +1,7 @@
 import me from "../../Images/me.jpeg";
 import { Link } from "react-router-dom";
 import "../Home/Home.css";
-import Footer from "../../App/Footer/Footer";
+import Footer from "../Footer/Footer";
 
 export default function Home() {
   return (

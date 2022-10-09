@@ -1,5 +1,5 @@
 import { SocialIcon } from "react-social-icons";
-import "../Footer/Footer.css";
+import "./Footer.css";
 
 export default function Footer() {
   return (
