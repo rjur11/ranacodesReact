@@ -1,0 +1,14 @@
+.bios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.short, .medium, .long {
+    margin: 10px;
+    width: 50%;
+}
+
+summary {
+    padding: 5px
+}

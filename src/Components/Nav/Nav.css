@@ -1,0 +1,12 @@
+.navContainer {
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 5px
+}
+button {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+    background-color: lightblue;
+    border: 1px solid tan;
+    border-radius: 3px;
+}

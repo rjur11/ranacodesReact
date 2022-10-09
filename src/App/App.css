@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  height: 100%
+}
+
+img {
+  margin: 10px
+}
+.me {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+html {
+  height: 100%
+}
+
