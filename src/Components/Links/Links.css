@@ -1,0 +1,10 @@
+.links {
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 300px;
+    padding: 10px;
+    height: 100%;
+    width: 10px;
+      
+}

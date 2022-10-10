@@ -2,7 +2,7 @@ import Home from "../Components/Home/Home";
 import Bio from "../Components/Bio/Bio";
 import Portfolio from "../Components/Portfolio/Portfolio";
 import "./App.css";
-import { Route, Routes, Link } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (

@@ -3,6 +3,7 @@ import kbeautyAPI from "../../Images/kbeautyAPI.png";
 import rum from "../../Images/rum.png";
 import ks from "../../Images/keyboardsmash.png";
 import forest from "../../Images/forest.png";
+import rana from "../../Images/2.png";
 
 const portfolioData = [
   {
@@ -46,6 +47,14 @@ const portfolioData = [
     type: "Solo",
     tech: "Unity Game Engine",
     githubLink: "https://github.com/rjur11/Forest-Escape",
+  },
+  {
+    id: "website",
+    imgLink: rana,
+    title: "Rana Codes",
+    type: "Solo",
+    tech: "React, Github Pages",
+    githubLink: "https://github.com/rjur11/ranacodesReact",
   },
 ];
 

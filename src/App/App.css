@@ -6,13 +6,8 @@
 img {
   margin: 10px
 }
-.me {
-  border-radius: 50%;
-  height: 200px;
-  width: 200px;
-}
 
-html {
+html, body {
   height: 100%
 }
 
