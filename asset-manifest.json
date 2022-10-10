@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a51abaf7.css",
-    "main.js": "/static/js/main.5834f312.js",
+    "main.css": "/static/css/main.5873a1ca.css",
+    "main.js": "/static/js/main.0a7208e8.js",
     "static/js/787.8de22cf7.chunk.js": "/static/js/787.8de22cf7.chunk.js",
     "static/media/rum.png": "/static/media/rum.732715836ed6ccad73a8.png",
     "static/media/forest.png": "/static/media/forest.74f083c23744e3d7f553.png",
     "static/media/keyboardsmash.png": "/static/media/keyboardsmash.70ebbe23e46d84fdc987.png",
     "static/media/Kbeautybuddy.png": "/static/media/Kbeautybuddy.f79d147c5dc0a814e351.png",
+    "static/media/2.png": "/static/media/2.7a1877bc5ba762c77a69.png",
     "static/media/kbeautyAPI.png": "/static/media/kbeautyAPI.030f4b18aeb27088f2dc.png",
     "static/media/me.jpeg": "/static/media/me.1a7d998f86dd1ceca453.jpeg",
     "index.html": "/index.html",
-    "main.a51abaf7.css.map": "/static/css/main.a51abaf7.css.map",
-    "main.5834f312.js.map": "/static/js/main.5834f312.js.map",
+    "main.5873a1ca.css.map": "/static/css/main.5873a1ca.css.map",
+    "main.0a7208e8.js.map": "/static/js/main.0a7208e8.js.map",
     "787.8de22cf7.chunk.js.map": "/static/js/787.8de22cf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a51abaf7.css",
-    "static/js/main.5834f312.js"
+    "static/css/main.5873a1ca.css",
+    "static/js/main.0a7208e8.js"
   ]
 }
