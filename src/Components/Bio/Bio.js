@@ -67,7 +67,7 @@ export default function Bio() {
         <a href="https://courses.ideate.cmu.edu/53-353/m2022/">
           53-353: Understanding Game Engines
         </a>{" "}
-        and really loved everything I was learning. I quit my job and enrolled I
+        and really loved everything I was learning. I quit my job and I
         enrolled in{" "}
         <a href="https://turing.edu/">Turing School of Software and Design</a>
         's intensive 8 month Front End program, where I learned all about modern
