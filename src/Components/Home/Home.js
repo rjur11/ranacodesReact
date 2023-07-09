@@ -16,8 +16,9 @@ export default function Home() {
             Hi, my name is <span className="rana">Rana!</span>
           </h1>
           <p className="blurb">
-            I'm a front-end engineer currently interning at{" "}
-            <span clasName="hvr-float">Shopify</span> on the Theme Design team.
+            I'm a Developer currently working at{" "}
+            <span clasName="hvr-float">Shopify</span> on the Theme Customization
+            team.
           </p>
           <div className="icons">
             <SocialIcon url="https://github.com/rjur11" />
